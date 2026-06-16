@@ -15,6 +15,10 @@ export const techSkills = [
         name: "Flutter",
         percentage: 40
     },
+    {
+        name: "Node.js",
+        percentage: 50
+    }
 ];
 
 export const professionalSkills = [
@@ -25,7 +29,7 @@ export const professionalSkills = [
     },
     {
         name: "Problem Solving",
-        percentage: 95
+        percentage: 85
     },
     {
         name: "Creativity",
@@ -48,6 +52,14 @@ export const ToolsAndTechnologies = [
         name: "React"
     },
     {
+        logo: "./images/Node.js.png",
+        name: "Node.js"
+    },
+    {
+        logo: "./images/Flutter.png",
+        name: "Flutter"
+    },
+    {
         logo: "./images/Git.png",
         name: "Git"
     },
@@ -55,10 +67,6 @@ export const ToolsAndTechnologies = [
         logo: "./images/NPM.png",
         name: "Npm"
     }, 
-    {
-        logo: "./images/Flutter.png",
-        name: "Flutter"
-    },
     {
         logo: "./images/vs.png",
         name: "VS Code"
